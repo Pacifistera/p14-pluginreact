@@ -2,6 +2,22 @@
   "name": "@pacifister/react-modal-hrnet",
   "version": "1.0.1",
   "description": "Un composant Modal React simple et réutilisable",
+  "author": {
+    "name": "Max Deroubaix",
+    "email": "max.deroubaix@gmail.com",
+    "url": "https://github.com/pacifister"
+  },
+  "keywords": [
+    "react",
+    "modal",
+    "dialog",
+    "popup",
+    "overlay",
+    "ui",
+    "component",
+    "accessible",
+    "responsive"
+  ],
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "files": [
